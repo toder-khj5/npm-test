@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": "https://github.com/toder-khj5/toder-khj5-daisy-test-dist-component",
+  "repository": "https://github.com/toder-khj5/npm-test",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
   }
