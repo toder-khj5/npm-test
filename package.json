@@ -1,0 +1,15 @@
+{
+  "name": "@torder-khj5/daisy-test-dist-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": "https://github.com/toder-khj5/daisy-test-dist-component",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
+}
